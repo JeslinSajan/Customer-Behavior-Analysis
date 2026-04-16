@@ -131,6 +131,12 @@ python src/main.py
 
 ---
 
+## 🌐 Web App
+
+Run the interactive dashboard using:
+
+streamlit run src/web_app.py
+
 ## 💡 Future Improvements
 
 * Implement machine learning models for churn prediction
